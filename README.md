@@ -88,7 +88,7 @@ text
 ├── data/
 │   └── bank_churn_results_final.csv
 ├── churn_modeling.ipynb
-├── churn_dashboard.py (if using Streamlit)
+├── churn_dashboard.py 
 ├── visuals/
 │   └── *.png (matplotlib charts)
 └── README.md
